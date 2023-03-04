@@ -1,0 +1,11 @@
+{
+  "ReferencesAndLinks": ["https://www.biorxiv.org/content/10.1101/2022.07.05.498906v4.abstract"],
+  "Authors": [
+    "Edward Ester",
+    "Asal Nouri"
+  ],
+  "Name": "EsterAndNouri2023",
+  "License": "CC0",
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}
